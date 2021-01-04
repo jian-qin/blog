@@ -16,10 +16,9 @@
 
 + 创建人：剑倾
 
----
-
 ## 导航
 
-| 名称（点击名称跳转） | 类型 | 简介 | 创建时间 |
+| 类型 | 名称（点击名称跳转） | 简介 | 创建时间 |
 | - | - | - | - |
-| [安装电脑window系统](tools/system/installSystem/README.md) | 工具 | 使用u盘安装电脑window系统 | 2021.1.4 |
+| 工具 | [安装电脑window系统](tools/system/installSystem/README.md) | 使用u盘安装电脑window系统 | 2021.1.4 |
+| 代码 | [小程序require绝对路径引入](code/applet/pathAgent/README.md) | 通过代理使用绝对路径引入文件 | 2021.1.4 |
