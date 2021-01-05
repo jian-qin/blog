@@ -1,5 +1,7 @@
 # 小程序自定义全局变量
 
++ 创建时间：2021.1.5
+
 > 自定义全局变量，用来存储一些临时状态
 
 ## 例子
@@ -12,6 +14,7 @@ const $store = {}
 /**
  * @name 内部函数-重置数据
  * @param { object } [ ignore ] 白名单
+ * @returns { Object } 重置之后的数据
  */
 const $reset = ignore => Object.assign(
     $store, // 运行中数据
