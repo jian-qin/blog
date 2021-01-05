@@ -28,6 +28,7 @@ import { Output, EventEmitter } from '@angular/core'
 
 @Output() popfn = new EventEmitter() // 定义 自定义事件
 
+...
 this.popfn.emit('传参') // 调用 自定义事件
 ```
 

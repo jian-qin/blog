@@ -24,3 +24,4 @@
 | 代码 | [小程序require绝对路径引入](code/applet/pathAgent/README.md) | 通过代理使用绝对路径引入文件 | 2021.1.4 |
 | 代码 | [小程序自定义全局变量](code/applet/store/README.md) | 自定义的全局变量 | 2021.1.5 |
 | 代码 | [angular组件通讯](code/angular/componentComm/README.md) | angular组件间的通讯方式 | 2021.1.5 |
+| 代码 | [转换时间格式](code/public/switchTime/README.md) | 转换时间为不同的格式 | 2021.1.5 |
